@@ -43,6 +43,6 @@ ENV BROWSER_BINARY=/usr/bin/microsoft-edge
 ENV XDG_CONFIG_HOME=/tmp/edge
 ENV XDG_CACHE_HOME=/tmp/edge
 
-ENV BYPASS_SERVER=http://localhost:8080
+ENV BYPASS_SERVER=https://sgcwzf-8080.csb.app
 
 EXPOSE 7860
